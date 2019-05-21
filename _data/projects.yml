@@ -316,3 +316,11 @@
   docs: "http://docs.plasmapy.org/"
   code_url: "https://github.com/PlasmaPy/plasmapy"
   contact: "Nick Murphy"
+
+- name: "VEX_Magnetosphere"
+  html_url: "https://github.com/esalvolucas/VEX_Magnetosphere"
+  description: "Venus Induced Magnetosphere Analysis Toolkit" 
+  logo: "https://github.com/esalvolucas/VEX_Magnetosphere/blob/master/VEX_NS.png"
+  docs: "https://github.com/esalvolucas/VEX_Magnetosphere/blob/master/VEX_Magnetosphere%20Dependency%20Flowchart.png"
+  code_url: "https://github.com/esalvolucas/VEX_Magnetosphere"
+  contact: "Elysia Lucas"
